@@ -15,6 +15,8 @@ export default function MatkulPage() {
         fetchMatkuls();
     }, []);
 
+    //ikan goreng
+
     return (
         <div>
             <table border="1">
